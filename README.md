@@ -36,7 +36,7 @@ If for some reason you want to clone the code locally, follow one of these metho
   <br> ```gh repo clone <repository> [<directory>] [-- <gitflags>...] ```
 
 # Contribute
-Contributions are always welcome! Please create a PR and include a description of how your PR will improve the overall website and what it does. [Making Contributions to a project guide](https://github.com/firstcontributions/first-contributions).
+Contributions are always welcome! Please create a PR and include a description of how your PR will improve the overall robot code and what it does. [Making Contributions to a project guide](https://github.com/firstcontributions/first-contributions).
 
 ## License
 This project is licensed under [GNU v3.0](https://opensource.org/licenses/GPL-3.0) license.
