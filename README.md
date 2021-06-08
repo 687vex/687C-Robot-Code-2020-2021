@@ -34,8 +34,6 @@ If for some reason you want to clone the code locally, follow one of these metho
 ### Downloading using Git commands
   1. Open cmd and navigate to an appropriate directory and run the following command:
   <br> ```gh repo clone <repository> [<directory>] [-- <gitflags>...] ```
-  
-<br>
 
 # Contribute
 Contributions are always welcome! Please create a PR and include a description of how your PR will improve the overall website and what it does. [Making Contributions to a project guide](https://github.com/firstcontributions/first-contributions).
