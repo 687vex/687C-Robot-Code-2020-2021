@@ -1,5 +1,5 @@
 # CAMS VEX 687 Competition Template 2020-2021
-![VEX 687 Logo](/assets/img/logo.png)
+![Change-Up Logo](/assets/img/change-up-logo.jpg)
 <div align="left">
 <a href="https://github.com/687vex/687C-Robot-Code-2020-2021/stargazers"><img src="https://img.shields.io/github/stars/687vex/687C-Robot-Code-2020-2021" alt="Stars Badge"/></a>
 <a href="https://github.com/687vex/687C-Robot-Code-2020-2021/members"><img src="https://img.shields.io/github/forks/687vex/687C-Robot-Code-2020-2021" alt="Forks Badge"/></a>
