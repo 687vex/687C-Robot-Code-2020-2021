@@ -12,10 +12,9 @@
 /*    Module:       main.cpp                                                  */
 /*    Author:       Miguel VF                                                 */
 /*    Created:      Sun Apr 26 2020                                           */
-/*    Description:  X-drive go  brrr!!!                                       */
+/*    Description:  X-drive go brrr!!!                                        */
 /*                                                                            */
 /*----------------------------------------------------------------------------*/
-
 /*Drive used: Holonomic Drive/X Drive
   X-drive configuration:
         X FRONT X
@@ -35,8 +34,19 @@ using namespace vex;
 // Competition
 competition Competition;
 
-void pre_auton(void) {}
-// Autonomous Robot Movement
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+//                               Pre-Autonomous
+//
+/////////////////////////////////////////////////////////////////////////////////////////
+void pre_auton(void) {
+}
+
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+//                               Autonomous
+//
+/////////////////////////////////////////////////////////////////////////////////////////
 void autonomous(void) {
   while (true) // While true is true, repeat the commands in the next {}
   {
@@ -45,6 +55,11 @@ void autonomous(void) {
   }
 }
 
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+//                               Driver-based Control
+//
+/////////////////////////////////////////////////////////////////////////////////////////
 void drivercontrol(void) {
   while (true) {
     // spin to win 
@@ -55,6 +70,11 @@ void drivercontrol(void) {
   }
 }
 
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+//                               Main
+//
+/////////////////////////////////////////////////////////////////////////////////////////
 // Set up  competition and callbacks
 int main() {
   Brain.Screen.print("Hello World!\n");
