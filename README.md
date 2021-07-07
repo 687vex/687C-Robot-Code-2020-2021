@@ -1,19 +1,12 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+
 # CAMS VEX 687C Robot Code 2020-2021
-![Change-Up Logo](/assets/img/change-up-logo.jpg)
-<div align="left">
-<a href="https://github.com/687vex/687C-Robot-Code-2020-2021/stargazers"><img src="https://img.shields.io/github/stars/687vex/687C-Robot-Code-2020-2021" alt="Stars Badge"/></a>
-<a href="https://github.com/687vex/687C-Robot-Code-2020-2021/members"><img src="https://img.shields.io/github/forks/687vex/687C-Robot-Code-2020-2021" alt="Forks Badge"/></a>
-<a href="https://github.com/687vex/687C-Robot-Code-2020-2021/pulls"><img src="https://img.shields.io/github/issues-pr/687vex/687C-Robot-Code-2020-2021" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/687vex/687C-Robot-Code-2020-2021"><img src="https://img.shields.io/github/issues/687vex/687C-Robot-Code-2020-2021" alt="Issues Badge"/></a>
-<a href="https://github.com/687vex/687C-Robot-Code-2020-2021"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/687vex/687C-Robot-Code-2020-2021?color=2b9348"></a>
-<a href="https://github.com/687vex/687C-Robot-Code-2020-2021/blob/main/LICENSE"><img src="https://img.shields.io/github/license/687vex/687C-Robot-Code-2020-2021?color=2b9348" alt="License Badge"/></a>
-</div>
 
-<br>
+[<img src="assets/img/change-up-logo.jpg" align="right" width="150">](https://github.com/687vex/NerdyField)
 
-In this repository, you will find the competition template of CAMS VEX 687: The Nerd Herd for the 2020-2021 season. Enjoy!
-
-<br>
+Competition template of CAMS VEX 687: The Nerd Herd for the 2020-2021 season. Enjoy!
 
 # Competition Code Template
 ## Instructions:
@@ -43,3 +36,10 @@ This project is licensed under [GNU v3.0](https://opensource.org/licenses/GPL-3.
 
 ## Support Us!
 Give this repo a ⭐️ if you found this project helpful!
+
+[contributors-shield]: https://img.shields.io/github/contributors/687vex/687C-Robot-Code-2020-2021.svg?style=for-the-badge
+[contributors-url]: https://github.com/687vex/687C-Robot-Code-2020-2021/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/687vex/687C-Robot-Code-2020-2021.svg?style=for-the-badge
+[forks-url]: https://github.com/687vex/687C-Robot-Code-2020-2021/network/members
+[stars-shield]: https://img.shields.io/github/stars/687vex/687C-Robot-Code-2020-2021.svg?style=for-the-badge
+[stars-url]: https://github.com/687vex/687C-Robot-Code-2020-2021/stargazers
