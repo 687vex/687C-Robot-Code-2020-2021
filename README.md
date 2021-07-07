@@ -8,6 +8,12 @@
 
 Competition template of CAMS VEX 687: The Nerd Herd for the 2020-2021 season. Enjoy!
 
+### Built With
+
+-   VEXcode Pro
+-   C++
+-   Git
+
 # Competition Code Template
 ## Instructions:
 This is the competition template for CAMS VEX 687C: The Nerd Herd for the 2020-2021 season. Changes to the robot's code shall be committed here. Make sure your program meets our [Code Documentation Guidelines](https://github.com/687vex/Competition-Template-2020-2021/blob/main/CodeDocumentation.md)
