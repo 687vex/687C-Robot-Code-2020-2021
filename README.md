@@ -6,7 +6,7 @@
 
 [<img src="assets/img/change-up-logo.jpg" align="right" width="150">](https://github.com/687vex/NerdyField)
 
-Official robot code of VEX Robotics Team 687C for the 2020-2021 season
+Official robot code of VEX Robotics Team 687C for the 2020-2021 season.
 
 ### Built With
 
