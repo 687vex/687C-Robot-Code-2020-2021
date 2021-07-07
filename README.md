@@ -6,7 +6,7 @@
 
 [<img src="assets/img/change-up-logo.jpg" align="right" width="150">](https://github.com/687vex/NerdyField)
 
-Competition template of CAMS VEX 687: The Nerd Herd for the 2020-2021 season. Enjoy!
+Official robot code of VEX Robotics Team 687C for the 2020-2021 season
 
 ### Built With
 
