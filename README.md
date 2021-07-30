@@ -4,7 +4,7 @@
 
 # CAMS VEX 687C Robot Code 2020-2021
 
-[<img src="assets/img/change-up-logo.jpg" align="right" width="150">](https://github.com/687vex/NerdyField)
+[<img src="assets/img/change-up-logo.jpg" align="right" width="150">](https://github.com/687vex/687C-Robot-Code-2020-2021)
 
 Official robot code of VEX Robotics Team 687C for the 2020-2021 season.
 
